@@ -7,8 +7,8 @@
 
 ## 討論案例
 
-* [回覆: [Help]顯卡 NVIDIA GeForce 210 on 2020.04版? #2](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362406#forumpost362406)
-* [回覆: [詢問] Awesome下如何顯示「輸入密碼的視窗」#3](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362260#forumpost362260)
+* [#2 回覆: [Help]顯卡 NVIDIA GeForce 210 on 2020.04版?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362406#forumpost362406)
+* [#3 回覆: [詢問] Awesome下如何顯示「輸入密碼的視窗」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362260#forumpost362260)
 
 
 ## Link
