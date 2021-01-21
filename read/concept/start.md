@@ -1,6 +1,6 @@
 ---
 title: 快速入門
-nav_order: 1
+nav_order: 10
 ---
 
 
