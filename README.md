@@ -14,3 +14,4 @@
 ## Link
 
 * [https://wiki.debian.org/Xsession](https://wiki.debian.org/Xsession)
+* [https://wiki.ubuntu.com/CustomXSession](https://wiki.ubuntu.com/CustomXSession)
