@@ -88,6 +88,7 @@ tint2 &
 ## 參考連結
 
 * [https://wiki.ubuntu.com/CustomXSession](https://wiki.ubuntu.com/CustomXSession)
+* [https://wiki.archlinux.org/index.php/Display_manager#Session_configuration](https://wiki.archlinux.org/index.php/Display_manager#Session_configuration)
 * [https://wiki.debian.org/Xsession](https://wiki.debian.org/Xsession)
 
 
