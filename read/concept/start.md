@@ -85,6 +85,12 @@ tint2 &
 或是「xterm」也可以改成其他應用程式，例如「firefox」，您可以實驗看看。
 
 
+## 參考連結
+
+* [https://wiki.ubuntu.com/CustomXSession](https://wiki.ubuntu.com/CustomXSession)
+* [https://wiki.debian.org/Xsession](https://wiki.debian.org/Xsession)
+
+
 ## 原始討論串
 
 * [#2 回覆: [Help]顯卡 NVIDIA GeForce 210 on 2020.04版?](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362406#forumpost362406)
